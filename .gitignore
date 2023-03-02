@@ -2,6 +2,7 @@
 .vs/
 /bin/
 bin-int/
+x64/
 
 # Files
 *.user
@@ -23,7 +24,7 @@ bin-int/
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+#*.dll
 
 # Fortran module files
 *.mod
@@ -33,7 +34,7 @@ bin-int/
 *.lai
 *.la
 *.a
-*.lib
+#*.lib
 
 # Executables
 *.exe

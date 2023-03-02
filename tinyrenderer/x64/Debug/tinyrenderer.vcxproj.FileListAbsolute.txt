@@ -1,1 +1,2 @@
 D:\tinyrenderer\tinyrenderer\x64\Debug\tinyrenderer.exe
+D:\Dev\mytinyrenderer\Mytinyrenderer\tinyrenderer\x64\Debug\tinyrenderer.exe
